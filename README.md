@@ -5,6 +5,6 @@
    
    Please contribute to this in the data repository. In this repository you can find the loop and algorithm contributing files where you them email me on your work, You will be credited on this and added as a contributer. 
    
-<img src="https://rationalwiki.org/w/images/2/2f/CAIMEO.jpg" alt="CAIMEO.jpg"/>![image](https://user-images.githubusercontent.com/115195207/229844680-aa366971-ad27-4f78-b423-bd31b6e7fee2.png)
+<img src="https://rationalwiki.org/w/images/2/2f/CAIMEO.jpg" alt="CAIMEO.jpg"/>![image](https://user-images.githubusercontent.com/115195207/229844680-aa366971-ad27-4f78-b423-bd31b6e7fee2.png) </img> 
 
  
