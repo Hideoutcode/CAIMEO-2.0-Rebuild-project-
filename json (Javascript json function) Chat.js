@@ -3,14 +3,14 @@
 
   app.controller('MessageCtrl', function($scope) {
     $scope.messages = [{
-      Name: 'George Clooney',
+      Name: 'chatBot1',
       Message: "The only failure is not to try"
     }, {
-      Name: 'Seth Rogen',
-      Message: "I grew up in Vancouver, man. That's where more than half of my style comes from."
+      Name: 'ChatBot2',
+      Message: "welcome to User interface with AI."
     }, {
-      Name: 'John Lydon',
-      Message: "There's nothing glorious in dying. Anyone can do it."
+      Name: 'ChhatBotGlitch3',
+      Message: "Whats it like out of the box? It could all go away."
     }];
   });
 
